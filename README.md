@@ -13,3 +13,9 @@ Constitution rules define:
 
 
 
+## Become a member (Samurai)
+
+To become a part of Health Samurai you 
+have to get credit (1 year) existing samurai.
+
+Credit means "real" credit, which should be returned.
