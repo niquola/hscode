@@ -18,4 +18,6 @@ Constitution rules define:
 To become a part of Health Samurai you 
 have to get credit (1 year) existing samurai.
 
-Credit means "real" credit, which should be returned.
+Credit means "real" credit, which is subsracted from 
+samurai, who accept candidate and should be returned with percent by new samurai
+during some period of time.
