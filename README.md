@@ -37,7 +37,17 @@ If samurai is out, all `accepters` are loosing investment.
 
 If samurai does not participate as `accepter` during *NON_ACCEPTOR_PERIOD* cycles, he/she loose *KIn* * *NON_ACCEPTOR_CFX*
 
+## Life rules
 
 
+if you bring the new project - project-price * lead-rate during big-cycle
+if you participated in project sale - project-price * sales-rate during big-cycle
+if you work for a cycle in project  - cycle-price * samurai-rate
+if you work for a big cycle in project  - big-cycle-price * samurai-long-term-rate
+if customer is satisfied with samurai for a big cycle in project  - big-cycle-price * samurai-client-honor-rate
 
-
+customer can remove samurai from project - penalties
+other samurai can remove samurai from project - points rate
+  samurai move Ostracism points to candidate
+  candidate leaves project
+  (candidate can survice for some time with this points)
