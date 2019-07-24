@@ -11,13 +11,33 @@ Constitution rules define:
 * ostracism rules
 * company abandon scenario
 
+All rules are expressed in *Kp* (karma points), 
+which are internal "money" if you want.
+
+If karma is less than *KSt* (karma survival threshold)  samurai should leave.
 
 
 ## Become a member (Samurai)
 
-To become a part of Health Samurai you 
-have to get credit (1 year) existing samurai.
 
-Credit means "real" credit, which is subsracted from 
-samurai, who accept candidate and should be returned with percent by new samurai
-during some period of time.
+To become a part of Health Samurai you 
+have to get credit from samurai.
+
+Credit means credit:
+
+* credit is subsracted from samurai, who accept candidate 
+* credit should be returned with reward by new samurai
+
+To become samurai you have to get *KIn* (karma in) points of karma, 
+for example by 1/3 from 3 samurai.
+
+During the *KRP* (karma return period) new samurai should return *KIn* points + *KRR* * *Kin* (karma return rate).
+
+If samurai is out, all `accepters` are loosing investment.
+
+If samurai does not participate as `accepter` during *NON_ACCEPTOR_PERIOD* cycles, he/she loose *KIn* * *NON_ACCEPTOR_CFX*
+
+
+
+
+
